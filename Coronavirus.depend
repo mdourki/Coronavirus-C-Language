@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1592684977 source:d:\langage c 2 ap\projet juin 2020\coronavirus\main.c
+	<stdio.h>
+	<stdlib.h>
+	"file.c"
+	"file.h"
+	<stdbool.h>
+
+1594377644 d:\langage c 2 ap\projet juin 2020\coronavirus\file.c
+	"file.h"
+	<stdio.h>
+	<string.h>
+	<stdbool.h>
+
+1592578252 d:\langage c 2 ap\projet juin 2020\coronavirus\file.h
+	<stdbool.h>
+
+1592494960 d:\langage c 2 ap\projet juin 2020\coronavirus\file2.h
+	"file.h"
+	"file3.h"
+
+1592494463 d:\langage c 2 ap\projet juin 2020\coronavirus\file3.h
+	"file.h"
+	"file2.h"
+
+1592494126 d:\langage c 2 ap\projet juin 2020\coronavirus\file2.c
+	"file.h"
+	"file2.h"
+	"file3.h"
+
+1592494129 d:\langage c 2 ap\projet juin 2020\coronavirus\file3.c
+	"file.h"
+	"file2.h"
+	"file3.h"
+
